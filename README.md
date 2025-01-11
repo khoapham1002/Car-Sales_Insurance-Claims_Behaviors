@@ -1,5 +1,7 @@
 # Data Science and Analytics Projects
 
+YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors/blob/main/notebooks/framework.ipynb) FIRST!
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
