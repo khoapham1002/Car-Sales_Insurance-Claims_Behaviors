@@ -1,4 +1,4 @@
-# Data Science and Analytics Projects
+# Car Sales, Insurance Claims & Charging Behaviors
 
 YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors/blob/main/notebooks/framework.ipynb) FIRST!
 
